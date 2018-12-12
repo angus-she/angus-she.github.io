@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Dec 2018 01:42:59 at http://dmcpa.com.hk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dmcpa.com.hk -O1 "C:\Users\Angus\Desktop\WebTest\Account" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:44:15	Error: 	"Not Found" (404) at link dmcpa.com.hk/img/owl.video.play.png (from dmcpa.com.hk/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 142 links scanned, 140 files written (8486903 bytes overall), 32 files updated [1954974 bytes received at 24135 bytes/sec], 756667 bytes transferred using HTTP compression in 30 files, ratio 20%, 10.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
