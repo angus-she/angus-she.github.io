@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-dmcpa.com.hk	TRUE	/	FALSE	1999999999	PHPSESSID	v3a7d24acjtp85osfrdsuahdm0
-
