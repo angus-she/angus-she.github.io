@@ -138,11 +138,11 @@ body {
     text-align: center;
 }
 .fixedfooter .whatsapp {
-    background-color: #640000;
+    background-color: #4f01c2;
 	padding: 10px 0;
 }
 .fixedfooter .phone {
-    background-color: #04294e;
+    background-color: #2f0244;
 	padding: 10px 0;
 }
 .fixedfooter .whatsapp a {
@@ -197,7 +197,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #640000;
+    color: #4f01c2;
 }
 
 h1, .h1,
@@ -1174,7 +1174,7 @@ body.is-scrolling #backToTop {
 }
 
 .header--topbar .nav > li > a:hover {
-    color: #640000;
+    color: #4f01c2;
 	text-decoration: underline;
 }
 
@@ -3216,7 +3216,7 @@ body.is-scrolling #backToTop {
 	text-decoration:underline;
 }
 .border-rounded {
-	border: #640000 solid 2px;
+	border: #4f01c2 solid 2px;
 	padding: 20px;
 	padding-top: 30px;
 }

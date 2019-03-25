@@ -71,7 +71,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,
 .extra-service--item .icon,
 .recent-posts--widget .meta li a:hover,
 .portfolio--item figcaption .title .h4 a:hover {
-    color: #04294e;
+    color: #2f0244;
 }
 
 /* ------------------------------------
@@ -100,14 +100,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,
 .comment--list .title .h3:before,
 .comment--form .title .h3:before,
 .owl-nav > div {
-    background-color: #04294e;
+    background-color: #2f0244;
 }
 
 ::-moz-selection {
-    background-color: #04294e;
+    background-color: #2f0244;
 }
 ::selection {
-    background-color: #04294e;
+    background-color: #2f0244;
 }
 
 /* ------------------------------------
@@ -142,17 +142,17 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,
 .pagination > li.active > span:hover,
 .pagination > li.active > a:focus,
 .pagination > li.active > span:focus {
-    border-color: #04294e;
+    border-color: #2f0244;
 }
 
 .pricing--item .title .h3:before,
 .pricing--item .title .ribbon:before {
-    border-top-color: #04294e;
+    border-top-color: #2f0244;
 }
 
 /** footer widget color version css **/
 .footer--widgets .widget--title .h4 {
-	color: #04294e;
+	color: #2f0244;
 }
 .footer--widgets a,
 .footer--widgets {
@@ -168,17 +168,17 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,
 .footer--widgets a:hover, 
 .footer--widgets a:focus,
 .recent-posts--widget ul li .date {
-	color: #04294e;
+	color: #2f0244;
 }
 .footer--widgets {
   background-color: #f7f7f7;
 }
 .footer--copyright {
-	background-color: #04294e;
+	background-color: #2f0244;
 }
 .red {
-	color: #640000;
+	color: #4f01c2;
 }
 .bg-red {
-	background-color: #640000;
+	background-color: #4f01c2;
 }
