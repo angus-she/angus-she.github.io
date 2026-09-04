@@ -10,3 +10,16 @@ Author URI: https://themeforest.net/user/themeatelier
 ANY CUSTOM STYLING YOU NEED TO APPLY SHOULD BE DEFINED IN THIS FILE.
 
 */
+
+/* [ Footer Disclaimer ] */
+.footer--disclaimer {
+    padding: 15px 0;
+    color: #9a9aa5;
+    background-color: #141414;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+}
+.footer--disclaimer strong {
+    color: #e2e2e8;
+}
